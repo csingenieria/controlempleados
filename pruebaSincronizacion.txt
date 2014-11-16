@@ -1,1 +1,13 @@
 esta es una prueba de sincronizacion
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi primer proyecto</title>
+</head>
+<body>
+    <h1>Primer proyecto de programación</h1>
+    <p>Bienveniedos a mi primer proyecto increíble en HTML.</p>
+</body>
+</html>
